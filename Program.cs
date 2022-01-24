@@ -2,6 +2,6 @@
 
 Console.WriteLine("Let's draw a square");
 
-Square sq1 = new Square(4,4,4,4);
+var sq1 = new Square(4,4,4,4);
 
 sq1.DrawSquare();
